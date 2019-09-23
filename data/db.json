@@ -1,0 +1,52 @@
+{
+  "categories": [
+    {
+      "_id": 1,
+      "name": "Electronics",
+      "display_name": "Electronics",
+      "description": "Testing Put"
+    },
+    {
+      "name": "Games",
+      "display_name": "Video Games",
+      "description": "Fun things to play",
+      "_id": 2
+    },
+    {
+      "name": "Alcohol",
+      "display_name": "Alcohol",
+      "description": "Testing post",
+      "_id": 4
+    }
+  ],
+  "products": [
+    {
+      "_id": 1,
+      "category": "Electronics",
+      "name": "Laptop",
+      "display_name": "Laptop",
+      "description": "Testing Put"
+    },
+    {
+      "category": "Video Games",
+      "name": "Mario",
+      "display_name": "Mario",
+      "description": "Platformer",
+      "_id": 2
+    },
+    {
+      "category": "Alcohol",
+      "name": "Sailor Jerry",
+      "display_name": "Sailor Jerry",
+      "description": "Fun juice",
+      "_id": 4
+    },
+    {
+      "category": "Video Games",
+      "name": "Super Mario",
+      "display_name": "Super Mario",
+      "description": "Platformer",
+      "_id": 5
+    }
+  ]
+}
